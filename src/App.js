@@ -154,6 +154,7 @@ const styles = StyleSheet.create({
   buttonSecondary: {
     justifyContent: 'center',
     alignItems: 'center',
+    marginTop: 20
   },
   buttonTextSecondary: {
     fontSize: 14,
